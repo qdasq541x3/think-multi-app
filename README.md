@@ -5,7 +5,7 @@
 ## 安装
 
 ~~~
-composer require topthink/think-multi-app
+composer require qdasq541x3/think-multi-app
 ~~~
 
 ## 使用
